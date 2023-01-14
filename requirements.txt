@@ -1,1 +1,1 @@
-pickle
+pickle5==0.0.12
